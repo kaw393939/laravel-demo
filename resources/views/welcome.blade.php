@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel is great
+                    Laravel is great The do item is done
                 </div>
 
                 <div class="links">
